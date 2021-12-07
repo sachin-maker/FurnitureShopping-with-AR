@@ -2,8 +2,7 @@
 
 Here is demo of Agumented reality.
 
-<video src='ScreenShot/s10.jpg' width=180/>
-
+https://user-images.githubusercontent.com/65155300/144960785-3ee8fad6-fcb7-4b0d-9495-36c75d67d38a.mp4
 
 
 
